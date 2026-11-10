@@ -1,8 +1,10 @@
 # TP7DPBO2526C1
-# Product Catalog (PHP Native OOP)
 
+Product Catalog (PHP Native OOP)
 Practicum assignment for DPBO (Modul 8: OOP in PHP Website with GUI).
 A PHP Native web application that manages a product catalog using an object-oriented structure, PDO and prepared statements.
+
+Janji Saya Bozorov Huseyn (NIM: 2521812) mengerjakan evaluasi Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Website Theme
 
