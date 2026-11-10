@@ -63,6 +63,7 @@ All queries use prepared statements with placeholders and bound values through P
 ## Run Documentation
 
 A screen recording of the website running, where CRUD is tried on all tables, is in the Dokumentasi folder.
+Screen record - Screen Recording TP7.mp4
 
 Products page:
 
