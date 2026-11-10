@@ -1,0 +1,25 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: #f4f6f8; color: #222; }
+header { background: #2c3e50; color: #fff; padding: 16px 32px; }
+header h1 { margin: 0 0 10px; font-size: 24px; }
+nav a { color: #cfd8dc; text-decoration: none; margin-right: 18px; padding-bottom: 4px; }
+nav a.active, nav a:hover { color: #fff; border-bottom: 2px solid #3498db; }
+main { max-width: 960px; margin: 24px auto; padding: 0 16px; }
+footer { text-align: center; color: #777; padding: 24px; }
+.card { background: #fff; padding: 16px 20px; border-radius: 8px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.card h3 { margin-top: 0; }
+label { display: block; margin: 10px 0 4px; font-weight: bold; font-size: 14px; }
+input[type=text], input[type=email], input[type=number], select { width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
+button, .btn-cancel, .btn-edit { display: inline-block; padding: 7px 14px; border: none; border-radius: 4px; background: #3498db; color: #fff; cursor: pointer; text-decoration: none; font-size: 14px; }
+.actions { margin-top: 14px; display: flex; gap: 8px; align-items: center; }
+.btn-cancel { background: #95a5a6; }
+.btn-edit { background: #f39c12; }
+.btn-delete { background: #e74c3c; }
+table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eee; }
+th { background: #3498db; color: #fff; }
+.row-actions { display: flex; gap: 6px; }
+.row-actions form { margin: 0; }
+.alert { padding: 10px 14px; border-radius: 4px; margin-bottom: 16px; }
+.success { background: #d4edda; color: #155724; }
+.error { background: #f8d7da; color: #721c24; }
