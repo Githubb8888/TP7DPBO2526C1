@@ -66,12 +66,12 @@ A screen recording of the website running, where CRUD is tried on all tables, is
 
 Products page:
 
-![Products](Dokumentasi/products.png)
+![Products](TP7DPBO2526C1/Dokumentasi/products.png)
 
 Categories page:
 
-![Categories](Dokumentasi/categories.png)
+![Categories](TP7DPBO2526C1/Dokumentasi/categories.png)
 
 Suppliers page:
 
-![Suppliers](Dokumentasi/suppliers.png)
+![Suppliers](TP7DPBO2526C1/Dokumentasi/suppliers.png)
