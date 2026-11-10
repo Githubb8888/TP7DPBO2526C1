@@ -7,6 +7,8 @@ Tugas Praktikum 7 DPBO 2026
 
 Janji Saya Bozorov Huseyn (NIM: 2521812) mengerjakan evaluasi Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+A PHP Native web application that manages a product catalog using an object-oriented structure, PDO and prepared statements.
+
 ## Website Theme
 
 The theme is a product catalog. Users can manage products, the categories those products belong to, and the suppliers that provide them. Every entity has full CRUD (Create, Read, Update, Delete).
